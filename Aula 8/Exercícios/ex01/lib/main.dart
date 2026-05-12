@@ -4,7 +4,6 @@ import "package:ex01/screens/tela2.dart";
 import "package:ex01/screens/tela3.dart";
 import "package:ex01/screens/tela4.dart";
 
-
 void main(){
   runApp(BottomNavigator());
 }
